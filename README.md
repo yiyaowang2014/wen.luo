@@ -47,7 +47,7 @@ Sample Spring Boot Application for Micro Services Developer evaluation
 		* Test the new end poitns developed successfully using any Rest Client (Postman, Curl, Browser etc.,)
 		
 ## Additional Information
-	* User some in memory Collection for storage and retrieval.
+	* User any simple in memory java Collection for storage and retrieval (No need for database implementation)
 	* Utilize appropriate HTTP Methods and HTTP Codes
 	* Handle and Implement negative scenarios
 	* Create JUnit test cases for all the possible conditions (Complete test case coverage) – One Java Service Class is enough
