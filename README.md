@@ -3,9 +3,12 @@
 Sample Spring Boot Application for Micro Services Developer
 
 ## Workspace Setup
-* Download the JDK 1.8 
-	* [Windows - 64 Bit] (http://download.oracle.com/otn-pub/java/jdk/8u161-b12/2f38c3b165be4555a1fa6e98c45e0808/jdk-8u161-windows-x64.exe)
+* **Download the JDK 1.8** 
+	* [Windows - 64 Bit](http://download.oracle.com/otn-pub/java/jdk/8u161-b12/2f38c3b165be4555a1fa6e98c45e0808/jdk-8u161-windows-x64.exe)
 	
-* Download the Eclipse Oxygen Release 3
-	* [Windows - 64 Bit] (http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/oxygen/3/eclipse-jee-oxygen-3-win32-x86_64.zip)
+* **Download the Eclipse Oxygen Release 3**
+	* Windows - 64 Bit](http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/oxygen/3/eclipse-jee-oxygen-3-win32-x86_64.zip)
+
+* **Download and Install Spring Tools Suite from Market Place**
+	* [Market Place](https://marketplace.eclipse.org/content/spring-tools-aka-spring-ide-and-spring-tool-suite)
 	
