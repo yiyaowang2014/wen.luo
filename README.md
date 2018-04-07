@@ -14,5 +14,16 @@ Sample Spring Boot Application for Micro Services Developer
 	
 * **Clone the GitHub Project**
 	* [GitHub Project](https://github.com/JayaprakashRavindran/ms-dev-sample)
+
+## Developer Tasks
+
+### Setup the Local Workspace Environment
+	* Install JDK 1.8
+	* Install Eclipse Oxygen
+	* Configure Eclipse with JDK 1.8
+	* Create a Fork and Checkout the [GitHub Code](https://github.com/JayaprakashRavindran/ms-dev-sample)
+	* Start the Spring Boot Application and ensure that it comes up successfully 
+		* Sample Url  - /api/accounts url
+		* Swagger Url - /index.html
+	* Once the development is complete, please check the code back into the fork and submit a pull request for the merge	
 	
-* Import the Project into Eclipse Workspace
