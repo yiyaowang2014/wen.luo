@@ -1,6 +1,6 @@
 # ms-dev-sample
 
-Sample Spring Boot Application for Micro Services Developer
+Sample Spring Boot Application for Micro Services Developer evaluation
 
 ## Pre Requisites (Provided by Tech Mahindra)
 * **Download the JDK 1.8** 
@@ -46,9 +46,7 @@ Sample Spring Boot Application for Micro Services Developer
 		* Start the Spring Boot Fat Jar command line
 		* Test the new end poitns developed successfully using any Rest Client (Postman, Curl, Browser etc.,)
 		
-	
 ## Additional Information
-	* Addl Info
 	* User some in memory Collection for storage and retrieval.
 	* Utilize appropriate HTTP Methods and HTTP Codes
 	* Handle and Implement negative scenarios
