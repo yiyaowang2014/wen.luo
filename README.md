@@ -25,5 +25,31 @@ Sample Spring Boot Application for Micro Services Developer
 	* Start the Spring Boot Application and ensure that it comes up successfully 
 		* Sample Url  - /api/accounts url
 		* Swagger Url - /index.html
-	* Once the development is complete, please check the code back into the fork and submit a pull request for the merge	
+	* Once the development is complete, please check the code back into the fork and submit a pull request for the merge
 	
+### Microservice Development Tasks
+	* Create a User	Resource Interface and provide the UserResourceImpl for the following functionality
+		* CreateUser
+			* Create a new user and returns 201 if success
+			* If User with that name already exists then return Http error code 409(CONFLICTED) with a custom message "Unable to create. A Account with name already exist"
+		* GetUser
+			* Returns the User object for a given userId with status as success
+			* If User does not exist then return 404 with custom error with message and error code e.g. {"errorMessage": "Account with id 123 not found", "errorCode": "NOT_FOUND" }
+	* Check List
+		* Create necessary Interface, Implementation & Helper classes to attain the functionality
+		* Java Doc
+		* JUnit Test
+		* Swagger Documentation
+		* Run the following using Maven
+			* Execute all the JUnit Test Cases
+			* Create the Spring Boot Fat Jar
+		* Start the Spring Boot Fat Jar command line
+		* Test the new end poitns developed successfully using any Rest Client (Postman, Curl, Browser etc.,)
+		
+	
+## Additional Information
+	* Addl Info
+	* User some in memory Collection for storage and retrieval.
+	* Utilize appropriate HTTP Methods and HTTP Codes
+	* Handle and Implement negative scenarios
+	* Create JUnit test cases for all the possible conditions (Complete test case coverage) – One Java Service Class is enough
